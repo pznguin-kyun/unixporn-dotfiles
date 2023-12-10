@@ -5,7 +5,6 @@ My cozy Christmas Linux setup
 | ![dark](https://raw.githubusercontent.com/p3nguin-kun/christmas-bspwm-dotfiles/main/.img/dark.png) | ![light](https://raw.githubusercontent.com/p3nguin-kun/christmas-bspwm-dotfiles/main/.img/light.png) |
 
 # Info
-- 📁 Dotfiles: [penguinDotfiles](https://github.com/p3nguin-kun/penguinDotfiles)
 - 🪟 Window Manager: [bspwm](https://github.com/baskerville/bspwm)
 - 👨‍💻 Terminal: [Alacritty](https://alacritty.org/)
 - 🌐 Browser: [Firefox](https://www.mozilla.org/en-US/firefox)
