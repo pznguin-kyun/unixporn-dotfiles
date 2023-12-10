@@ -1,5 +1,8 @@
 # p3nguin-kun's Chrismas Dotfiles
 My cozy Christmas Linux setup
+| Dark | Light |
+| :----- | :------ |
+| ![dark](https://raw.githubusercontent.com/p3nguin-kun/christmas-bspwm-dotfiles/main/.img/dark.png) | ![light](https://raw.githubusercontent.com/p3nguin-kun/christmas-bspwm-dotfiles/main/.img/light.png) |
 
 # Info
 - 📁 Dotfiles: [penguinDotfiles](https://github.com/p3nguin-kun/penguinDotfiles)
