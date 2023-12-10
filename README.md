@@ -5,6 +5,7 @@ My cozy Christmas Linux setup
 | ![dark](https://raw.githubusercontent.com/p3nguin-kun/christmas-bspwm-dotfiles/main/.img/dark.png) | ![light](https://raw.githubusercontent.com/p3nguin-kun/christmas-bspwm-dotfiles/main/.img/light.png) |
 
 # Info
+- 🖼️ Wallpaper: [Leissss's osu! Winter Fanart 2017](https://osu.ppy.sh/home/news/2017-12-14-winter-is-here) and [Xeno Senpai's osu! Winter Fanart 2019](https://osu.ppy.sh/home/news/2019-12-10-winter-is-here) 
 - 🪟 Window Manager: [bspwm](https://github.com/baskerville/bspwm)
 - 👨‍💻 Terminal: [Alacritty](https://alacritty.org/)
 - 🌐 Browser: [Firefox](https://www.mozilla.org/en-US/firefox)
