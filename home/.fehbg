@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+feh --no-fehbg --bg-fill /home/p3nguin/.config/bspwm/color/light/light.png
