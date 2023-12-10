@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# penguinRice
+# christmas-bspwm-dotfiles
 # GitHub: p3nguin-kun
 
 CRE=$(tput setaf 1)
@@ -26,7 +26,7 @@ fi
 
 intro(){
     logo "Welcome!"
-printf '%s%sWelcome to penguinRice!\nThis script will automatically install fully-featured tiling window manager-based system on any Linux system.\nMy dotfiles DO NOT modify any of your system configuration.\nYou will be prompted for your root password to install missing dependencies.\nThis script doesnt have potential power to break your system, it only copies files from my repo to your HOME directory. %s\n\n' "${BLD}" "${CRE}" "${CNC}"
+printf '%s%sWelcome to p3nguin's Chrismas Dotfiles Installer!\nThis script will automatically install fully-featured tiling window manager-based system on any Linux system.\nMy dotfiles DO NOT modify any of your system configuration.\nYou will be prompted for your root password to install missing dependencies.\nThis script doesnt have potential power to break your system, it only copies files from my repo to your HOME directory. %s\n\n' "${BLD}" "${CRE}" "${CNC}"
 
 while true; do
 	read -rp " Do you want to continue? [Y/n]: " yn
@@ -198,6 +198,7 @@ install_pkgs_src(){
   ./configure
   make
   make install
+  cd ..
 }
 
 prepare_folders(){
@@ -338,7 +339,7 @@ change_shell(){
 
 complete_msg(){
     logo "Done!"
-    printf "%s%sThanks for using penguinRice! %s\n" "${BLD}" "${CYE}" "${CNC}"
+    printf "%s%sThanks for using my dotfiles! %s\n" "${BLD}" "${CYE}" "${CNC}"
     while true; do
 	    read -rp "Do you want to restart now? [Y/n]: " yn2
 	    case $yn2 in
